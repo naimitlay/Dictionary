@@ -1,3 +1,3 @@
 dependencies {
-    compile 'com.readystatesoftware.sqliteasset:sqliteassethelper:+'
+    implementation 'com.readystatesoftware.sqliteasset:sqliteassethelper:+'
 }
